@@ -1,20 +1,20 @@
 ---
-title: Note - The touch code of the HSR and Genshin
+title: '笔记 - 崩坏: 星穹铁道 和 原神的触控代码'
 published: 2025-01-16
-description: 'Note'
+description: ''
 image: ''
 tags: [Game, Cloud Game, Mihoyo, 游戏, 云游戏, 米哈游]
-category: ''
+category: '笔记'
 draft: false 
 lang: 'zh_CN'
 ---
 
-# 笔记 - 崩坏: 星穹铁道 和 原神的触控代码
+<!-- # 笔记 - 崩坏: 星穹铁道 和 原神的触控代码 -->
 
 > 注意:
-> 触控代码只适用于 PC(Windows) 上的游戏客户端 (Mac 未测试)
+> 触控代码只适用于 PC 上的游戏客户端
 
-触控代码可用于搭建云游戏服务
+触控代码可用于搭建云游戏服务，如果嫌麻烦可以使用 [胡桃启动器](https://hut.ao/zh/) 自带的 [启动参数](https://hut.ao/zh/features/game-launcher.html#%E5%90%AF%E5%8A%A8%E5%8F%82%E6%95%B0) 设置云游戏
 
 ## 崩坏:星穹铁道
 
